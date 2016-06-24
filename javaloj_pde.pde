@@ -1,4 +1,4 @@
-/* @pjs preload="mario.jpg"; */
+/* @pjs preload="Picture.jpg"; */
 PImage img;
 
 void setup() {
