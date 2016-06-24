@@ -1,3 +1,4 @@
+/*@pjs preload="WEF-Knowledge-Center Logo(1).jpg";*/
 PImage img;
 
 void setup() {
