@@ -4,7 +4,7 @@ PImage img;
 void setup() {
   // Images must be in the "data" directory to load correctly
   size(800,266);
-  img = loadImage("WEF-Knowledge-Center Logo(1).jpg");
+  img = loadImage("picture.jpg");
   background(255);
 }
 
